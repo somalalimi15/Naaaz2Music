@@ -1,6 +1,6 @@
-token=NDc2Njk2NTgxMzU0MjkxMjEx.Dnrj-g.y596ycjEocoGIseTOHXcf0k1p4s
-owner=194559857536270336 
-prefix=1
-game=1play
+token=NDc4NTMyMDY0NDAxMDMxMTc4.DrysUg.WiwGDuk841P833SqBNcqqz8B8Zs
+owner=416643173239226388
+prefix=N
+game=Naaaz,Muuusic
 stayinchannel=true
 songinstatus=true
